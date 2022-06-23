@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <targetSelectedWithDropDown>
+      <Target>
+        <type value="QUICK_BOOT_TARGET" />
+        <deviceKey>
+          <Key>
+            <type value="VIRTUAL_DEVICE_PATH" />
+<<<<<<< HEAD
+            <value value="C:\Users\muham\.android\avd\Pixel_2_API_28.avd" />
+=======
+            <value value="C:\Users\Gusta\.android\avd\emulator.avd" />
+>>>>>>> 16b962fd86b8a768467df315cead09d46c3342fe
+          </Key>
+        </deviceKey>
+      </Target>
+    </targetSelectedWithDropDown>
+<<<<<<< HEAD
+    <timeTargetWasSelectedWithDropDown value="2022-05-09T22:21:25.069784100Z" />
+=======
+    <timeTargetWasSelectedWithDropDown value="2022-05-07T17:54:26.939804800Z" />
+>>>>>>> 16b962fd86b8a768467df315cead09d46c3342fe
+  </component>
+</project>

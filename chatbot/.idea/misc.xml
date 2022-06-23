@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android_Projects/chatbot/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Android_Projects/chatbot/app/src/main/res/layout/item_mine_message.xml" value="0.22826086956521738" />
+        <entry key="..\:/Android_Projects/chatbot/app/src/main/res/layout/item_other_message.xml" value="0.22826086956521738" />
+        <entry key="..\:/Documents/College Stuff/SD2/sd2_groupc/chatbot/app/src/main/res/layout/item_mine_message.xml" value="0.22826086956521738" />
+        <entry key="..\:/Documents/College Stuff/SD2/sd2_groupc/chatbot/app/src/main/res/layout/item_other_message.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Gusta/sd2_groupc/chatbot/app/src/main/res/layout/activity_intro_page.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/Gusta/sd2_groupc/chatbot/app/src/main/res/layout/activity_loading_page.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Gusta/sd2_groupc/chatbot/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Gusta/sd2_groupc/chatbot/app/src/main/res/layout/item_mine_message.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Gusta/sd2_groupc/chatbot/app/src/main/res/layout/item_other_message.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/muham/Desktop/git/sd2_groupc/chatbot/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1425" />
+        <entry key="..\:/Users/muham/Desktop/git/sd2_groupc/chatbot/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1425" />
+        <entry key="..\:/Users/muham/Desktop/git/sd2_groupc/chatbot/app/src/main/res/drawable/launchicon_background.xml" value="0.1425" />
+        <entry key="..\:/Users/muham/Desktop/git/sd2_groupc/chatbot/app/src/main/res/layout/activity_intro_page.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/muham/Desktop/git/sd2_groupc/chatbot/app/src/main/res/layout/activity_loading_page.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/muham/Desktop/git/sd2_groupc/chatbot/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/muham/Desktop/git/sd2_groupc/chatbot/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1425" />
+        <entry key="..\:/Users/muham/Desktop/git/sd2_groupc/chatbot/app/src/main/res/mipmap-anydpi-v26/launchicon.xml" value="0.1425" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
